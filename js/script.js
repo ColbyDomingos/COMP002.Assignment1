@@ -1,3 +1,3 @@
-console.log("External JavaScript WEEWOO")
+console.log("External JavaScript WEEWOO");
 
-alert("CHECK CONSOLE.LOG WEEWOO")
+alert("CHECK CONSOLE.LOG WEEWOO");
